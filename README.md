@@ -27,9 +27,9 @@ The dashboard brings production, quality, downtime, and OEE indicators into one 
 - Unplanned downtime and average OEE KPIs
 - Plant and date slicers for interactive exploration
 
-> **Dashboard image:** Add a screenshot of the finished Power BI report here. Save it in this repository as `images/manufacturing-performance-dashboard.png`, then uncomment the line below.
->
-> `![Manufacturing Performance Dashboard](images/manufacturing-performance-dashboard.png)`
+## Dashboard Preview
+
+![Manufacturing Performance Dashboard](images/manufacturing-performance-dashboard.png)
 
 ## Technical workflow
 
