@@ -115,12 +115,13 @@ Only add files you actually have and are permitted to share. Do not publish cred
 - The downtime cost is a calculated project metric; it should not be represented as an audited financial figure.
 - The observed production gap is a signal for investigation, not proof of a particular root cause.
 - Downtime-category totals contain an identified unreconciled difference for PLT-004 / WC-039.
+## License and Data Attribution
 
-  ### License and Data Attribution
+### Code and Documentation
+The original SQL scripts and documentation in this repository are my own work, except where otherwise noted. The licensing terms are described in the repository's `LICENSE` file.
 
-The original SQL scripts and documentation in this repository are my own work, except where otherwise noted, and are licensed under the MIT License.
-
-The manufacturing dataset used for this portfolio project belongs to its respective owner or source provider and is not claimed as my original work. Its use and redistribution remain subject to the applicable source terms.
+### Data Attribution
+The manufacturing dataset used in this project was obtained from an external source. The dataset is not claimed as my original work, and its ownership and redistribution rights remain with the respective owner or provider. Please refer to the original source's terms for applicable usage and redistribution permissions.
 
 ---
 **Author:** Sunilkumar Labana
