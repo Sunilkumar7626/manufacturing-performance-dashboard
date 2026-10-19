@@ -116,6 +116,12 @@ Only add files you actually have and are permitted to share. Do not publish cred
 - The observed production gap is a signal for investigation, not proof of a particular root cause.
 - Downtime-category totals contain an identified unreconciled difference for PLT-004 / WC-039.
 
+  ### License and Data Attribution
+
+The original SQL scripts and documentation in this repository are my own work, except where otherwise noted, and are licensed under the MIT License.
+
+The manufacturing dataset used for this portfolio project belongs to its respective owner or source provider and is not claimed as my original work. Its use and redistribution remain subject to the applicable source terms.
+
 ---
 **Author:** Sunilkumar Labana
 **Contact:** https://www.linkedin.com/in/sunilkumar-labana-data-analyst/
