@@ -121,7 +121,14 @@ Only add files you actually have and are permitted to share. Do not publish cred
 The original SQL scripts and documentation in this repository are my own work, except where otherwise noted. The licensing terms are described in the repository's `LICENSE` file.
 
 ### Data Attribution
-The manufacturing dataset used in this project was obtained from an external source. The dataset is not claimed as my original work, and its ownership and redistribution rights remain with the respective owner or provider. Please refer to the original source's terms for applicable usage and redistribution permissions.
+
+This project uses the MFG-005 Manufacturing Line Performance Dataset (Sample), provided by XpertSystems.ai via Hugging Face.
+
+Source: https://huggingface.co/datasets/xpertsystems/mfg005-sample
+
+Dataset license: CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0 International).
+
+The dataset is not my original work and is not included in this repository. Please review the original dataset license for its terms and restrictions. The MIT License in this repository applies only to my original work where I hold the necessary rights.
 
 ---
 **Author:** Sunilkumar Labana
